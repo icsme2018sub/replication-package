@@ -49,9 +49,7 @@
 | MC | (Message Chain) A long chain of method invocations is performed to implement a class functionality |
 | LM | (Long Method) A method that is unduly long in terms of lines of code |
 | FE | (Feature Envy) A method is more interested in a class other than the one it actually is in |
-| FD | (Functional Decomposition) A class where inheritance and
-polymorphism are poorly used, declaring many private
-fields and implementing few methods |
+| FD | (Functional Decomposition) A class where inheritance and polymorphism are poorly used, declaring many private fields and implementing few methods |
 
 # Coverage
 
