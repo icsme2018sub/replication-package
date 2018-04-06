@@ -36,7 +36,7 @@
 | NOPA  | NOPA (Number of Public Attributes) is the number of public attributes of a class |
 | NOP  | The Number Of Packages metric counts the packages within the analyzed software system |
 | McCabe  | It measures the number of linearly independent paths contained in the control flow of the program |
-| BUSEWEIMER  | It is a predictive model that look at structural features (e.g. number of parenthesis in a statement) to measure the readability of a source code component |
+| BUSEWEIMER  | It is a predictive model that look at structural features, e.g. number of parenthesis in a statement, to measure the readability of a source code component |
 
 # Code Smells
 

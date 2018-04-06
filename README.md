@@ -1,4 +1,4 @@
-# Replication Package
+# Replication Package 
 
 In this replication package we make available **every** single script needed to **fully** replicate the results obtained in our paper.
 
@@ -53,3 +53,7 @@ Please note that also this step takes a considerable amount of time.
 
 ## Docker image
 We provide also a Dockerfile that can be used to build an image to replicate the results. Please note that, since you will create a Ubuntu image, you have to specify `python3` instead of the usual `python` (with is the version 2.7 by default)
+
+## Metrics Used
+
+A detailed list of the metrics used in this work is reported at this [link](https://github.com/icsme2018sub/replication-package/blob/master/metrics.md) 
